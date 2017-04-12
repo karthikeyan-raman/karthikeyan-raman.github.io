@@ -1,26 +1,6 @@
 {
     "canditates": [
         {
-            "Name": "Srinath Ravi",
-            "PrimarySkills": [
-                "C#",
-                "ASP.NET",
-                "ASP.NET MVC"
-            ],
-            "SecondarySkills": [
-                "MS SQL",
-                "MY SQL",
-                "JavaScript"
-            ],
-            "ContactNumber": "9845683009",
-            "EmailId": "srinath.ravi@adp.com",
-            "ProfilePhoto": "",
-            "ResumeDownloadLink": "",
-            "ProfileHeader": "Software Professional With Three Year Experience",
-            "Short Bio": "I am software profession with strong expereience in microsoft technologies. Open source enthusiast",
-            "GithubLink": "https://github.com/rkarthikeyan99"
-        },
-        {
             "Name": "Karthikeyan Raman",
             "PrimarySkills": [
                 "C#",
@@ -39,26 +19,6 @@
             "ProfileHeader": "Software Professional With Three Year Experience",
             "Short Bio": "I am software profession with strong expereience in microsoft technologies. Open source enthusiast",
             "GithubLink": "https://github.com/rkarthikeyan99"
-        },
-        {
-            "Name": "Arunkumar Gunasekaran",
-            "PrimarySkills": [
-                "C#",
-                "ASP.NET",
-                "ASP.NET MVC"
-            ],
-            "SecondarySkills": [
-                "MS SQL",
-                "MY SQL",
-                "JavaScript"
-            ],
-            "ContactNumber": "9845683002",
-            "EmailId": "arun-kumar.gunasekaran@adp.com",
-            "ProfilePhoto": "",
-            "ResumeDownloadLink": "",
-            "ProfileHeader": "Software Professional With Three Year Experience",
-            "Short Bio": "I am software profession with strong expereience in microsoft technologies. Open source enthusiast",
-            "GithubLink": "https://www.linkedin.com/in/garnkmr/"
         },
         {
             "Name": "Naveen Chandru",
@@ -99,106 +59,6 @@
             "ProfileHeader": "Software Professional With Three Year Experience",
             "Short Bio": "I am software profession with strong expereience in microsoft technologies. Open source enthusiast",
             "GithubLink": "https://github.com/idayathullah"
-        },
-        {
-            "Name": "Kannan Karunanidhi",
-            "PrimarySkills": [
-                "C#",
-                "ASP.NET",
-                "ASP.NET MVC"
-            ],
-            "SecondarySkills": [
-                "MS SQL",
-                "MY SQL",
-                "JavaScript"
-            ],
-            "ContactNumber": "9845683005",
-            "EmailId": "kannan.karunanithi@adp.com",
-            "ProfilePhoto": "",
-            "ResumeDownloadLink": "",
-            "ProfileHeader": "Software Professional With Three Year Experience",
-            "Short Bio": "I am software profession with strong expereience in microsoft technologies. Open source enthusiast",
-            "GithubLink": "https://www.linkedin.com/in/srinath-ravi-237ab953/"
-        },
-        {
-            "Name": "Daniel Sagayaraj Peter",
-            "PrimarySkills": [
-                "C#",
-                "ASP.NET",
-                "ASP.NET MVC"
-            ],
-            "SecondarySkills": [
-                "MS SQL",
-                "MY SQL",
-                "JavaScript"
-            ],
-            "ContactNumber": "9845683006",
-            "EmailId": "daniel.sagayarajpeter@adp.com",
-            "ProfilePhoto": "",
-            "ResumeDownloadLink": "",
-            "ProfileHeader": "Software Professional With Three Year Experience",
-            "Short Bio": "I am software profession with strong expereience in microsoft technologies. Open source enthusiast",
-            "GithubLink": "https://www.linkedin.com/in/srinath-ravi-237ab953/"
-        },
-        {
-            "Name": "NaveenKumar Ravi",
-            "PrimarySkills": [
-                "C#",
-                "ASP.NET",
-                "ASP.NET MVC"
-            ],
-            "SecondarySkills": [
-                "MS SQL",
-                "MY SQL",
-                "JavaScript"
-            ],
-            "ContactNumber": "9845683007",
-            "EmailId": "Naveenkumar.Ravi@adp.com",
-            "ProfilePhoto": "",
-            "ResumeDownloadLink": "",
-            "ProfileHeader": "Software Professional With Three Year Experience",
-            "Short Bio": "I am software profession with strong expereience in microsoft technologies. Open source enthusiast",
-            "GithubLink": "https://www.linkedin.com/in/srinath-ravi-237ab953/"
-        },
-        {
-            "Name": "Gopinath Radhakrishnan",
-            "PrimarySkills": [
-                "C#",
-                "ASP.NET",
-                "ASP.NET MVC"
-            ],
-            "SecondarySkills": [
-                "MS SQL",
-                "MY SQL",
-                "JavaScript"
-            ],
-            "ContactNumber": "9845683008",
-            "EmailId": "gopinath.radhakrishnan@adp.com",
-            "ProfilePhoto": "",
-            "ResumeDownloadLink": "",
-            "ProfileHeader": "Software Professional With Three Year Experience",
-            "Short Bio": "I am software profession with strong expereience in microsoft technologies. Open source enthusiast",
-            "GithubLink": "https://www.linkedin.com/in/srinath-ravi-237ab953/"
-        },
-        {
-            "Name": "Dhinesh Pandiyan",
-            "PrimarySkills": [
-                "C#",
-                "ASP.NET",
-                "ASP.NET MVC"
-            ],
-            "SecondarySkills": [
-                "MS SQL",
-                "MY SQL",
-                "JavaScript"
-            ],
-            "ContactNumber": "9845683010",
-            "EmailId": "dhinesh-pandiyan.muniyasamy@adp.com",
-            "ProfilePhoto": "",
-            "ResumeDownloadLink": "",
-            "ProfileHeader": "Software Professional With Three Year Experience",
-            "Short Bio": "I am software profession with strong expereience in microsoft technologies. Open source enthusiast",
-            "GithubLink": "https://www.linkedin.com/in/srinath-ravi-237ab953/"
         }
     ]
 }
