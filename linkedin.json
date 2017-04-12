@@ -2,16 +2,8 @@
     "canditates": [
         {
             "Name": "Srinath Ravi",
-            "PrimarySkills": [
-                "C#",
-                "ASP.NET",
-                "ASP.NET MVC"
-            ],
-            "SecondarySkills": [
-                "MS SQL",
-                "MY SQL",
-                "JavaScript"
-            ],
+            "PrimarySkills": "C#, ASP.NET, ASP.NET MVC",
+            "SecondarySkills": "MS SQL, MY SQL, JavaScript",
             "ContactNumber": "9845683009",
             "EmailId": "srinath.ravi@adp.com",
             "ProfilePhoto": "",
@@ -22,16 +14,8 @@
         },
         {
             "Name": "Karthikeyan Raman",
-            "PrimarySkills": [
-                "C#",
-                "ASP.NET",
-                "ASP.NET MVC"
-            ],
-            "SecondarySkills": [
-                "MS SQL",
-                "MY SQL",
-                "JavaScript"
-            ],
+            "PrimarySkills": "C#, ASP.NET, ASP.NET MVC",
+            "SecondarySkills": "MS SQL, MY SQL, JavaScript",
             "ContactNumber": "9845683009",
             "EmailId": "karthikeyan.raman@adp.com",
             "ProfilePhoto": "",
@@ -42,16 +26,8 @@
         },
         {
             "Name": "Arunkumar Gunasekaran",
-            "PrimarySkills": [
-                "C#",
-                "ASP.NET",
-                "ASP.NET MVC"
-            ],
-            "SecondarySkills": [
-                "MS SQL",
-                "MY SQL",
-                "JavaScript"
-            ],
+            "PrimarySkills": "C#, ASP.NET, ASP.NET MVC",
+            "SecondarySkills": "MS SQL, MY SQL, JavaScript",
             "ContactNumber": "9845683009",
             "EmailId": "arun-kumar.gunasekaran@adp.com",
             "ProfilePhoto": "",
@@ -62,16 +38,8 @@
         },
         {
             "Name": "Naveen Chandru",
-            "PrimarySkills": [
-                "C#",
-                "ASP.NET",
-                "ASP.NET MVC"
-            ],
-            "SecondarySkills": [
-                "MS SQL",
-                "MY SQL",
-                "JavaScript"
-            ],
+            "PrimarySkills": "C#, ASP.NET, ASP.NET MVC",
+            "SecondarySkills": "MS SQL, MY SQL, JavaScript",
             "ContactNumber": "9845683009",
             "EmailId": "naveenchandru.natarajan@adp.com",
             "ProfilePhoto": "",
@@ -82,16 +50,8 @@
         },
         {
             "Name": "Idayathullah Abdul",
-            "PrimarySkills": [
-                "C#",
-                "ASP.NET",
-                "ASP.NET MVC"
-            ],
-            "SecondarySkills": [
-                "MS SQL",
-                "MY SQL",
-                "JavaScript"
-            ],
+            "PrimarySkills": "C#, ASP.NET, ASP.NET MVC",
+            "SecondarySkills": "MS SQL, MY SQL, JavaScript",
             "ContactNumber": "9845683009",
             "EmailId": "idayathullah.abdul@adp.com",
             "ProfilePhoto": "",
@@ -102,16 +62,8 @@
         },
         {
             "Name": "Kannan Karunanidhi",
-            "PrimarySkills": [
-                "C#",
-                "ASP.NET",
-                "ASP.NET MVC"
-            ],
-            "SecondarySkills": [
-                "MS SQL",
-                "MY SQL",
-                "JavaScript"
-            ],
+            "PrimarySkills": "C#, ASP.NET, ASP.NET MVC",
+            "SecondarySkills": "MS SQL, MY SQL, JavaScript",
             "ContactNumber": "9845683009",
             "EmailId": "kannan.karunanithi@adp.com",
             "ProfilePhoto": "",
@@ -122,16 +74,8 @@
         },
         {
             "Name": "Daniel Sagayaraj Peter",
-            "PrimarySkills": [
-                "C#",
-                "ASP.NET",
-                "ASP.NET MVC"
-            ],
-            "SecondarySkills": [
-                "MS SQL",
-                "MY SQL",
-                "JavaScript"
-            ],
+            "PrimarySkills": "C#, ASP.NET, ASP.NET MVC",
+            "SecondarySkills": "MS SQL, MY SQL, JavaScript",
             "ContactNumber": "9845683009",
             "EmailId": "daniel.sagayarajpeter@adp.com",
             "ProfilePhoto": "",
@@ -142,16 +86,8 @@
         },
         {
             "Name": "NaveenKumar Ravi",
-            "PrimarySkills": [
-                "C#",
-                "ASP.NET",
-                "ASP.NET MVC"
-            ],
-            "SecondarySkills": [
-                "MS SQL",
-                "MY SQL",
-                "JavaScript"
-            ],
+            "PrimarySkills": "C#, ASP.NET, ASP.NET MVC",
+            "SecondarySkills": "MS SQL, MY SQL, JavaScript",
             "ContactNumber": "9845683009",
             "EmailId": "Naveenkumar.Ravi@adp.com",
             "ProfilePhoto": "",
@@ -162,16 +98,8 @@
         },
         {
             "Name": "Gopinath Radhakrishnan",
-            "PrimarySkills": [
-                "C#",
-                "ASP.NET",
-                "ASP.NET MVC"
-            ],
-            "SecondarySkills": [
-                "MS SQL",
-                "MY SQL",
-                "JavaScript"
-            ],
+            "PrimarySkills": "C#, ASP.NET, ASP.NET MVC",
+            "SecondarySkills": "MS SQL, MY SQL, JavaScript",
             "ContactNumber": "9845683009",
             "EmailId": "gopinath.radhakrishnan@adp.com",
             "ProfilePhoto": "",
@@ -182,16 +110,8 @@
         },
         {
             "Name": "Dhinesh Pandiyan",
-            "PrimarySkills": [
-                "C#",
-                "ASP.NET",
-                "ASP.NET MVC"
-            ],
-            "SecondarySkills": [
-                "MS SQL",
-                "MY SQL",
-                "JavaScript"
-            ],
+            "PrimarySkills": "C#, ASP.NET, ASP.NET MVC",
+            "SecondarySkills": "MS SQL, MY SQL, JavaScript",
             "ContactNumber": "9845683009",
             "EmailId": "dhinesh-pandiyan.muniyasamy@adp.com",
             "ProfilePhoto": "",
