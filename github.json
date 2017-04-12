@@ -2,16 +2,8 @@
     "canditates": [
         {
             "Name": "Karthikeyan Raman",
-            "PrimarySkills": [
-                "C#",
-                "ASP.NET",
-                "ASP.NET MVC"
-            ],
-            "SecondarySkills": [
-                "MS SQL",
-                "MY SQL",
-                "JavaScript"
-            ],
+            "PrimarySkills": "C#, ASP.NET, ASP.NET MVC",
+            "SecondarySkills": "MS SQL, MY SQL, JavaScript",
             "ContactNumber": "9845683001",
             "EmailId": "karthikeyan.raman@adp.com",
             "ProfilePhoto": "",
@@ -22,16 +14,8 @@
         },
         {
             "Name": "Naveen Chandru",
-            "PrimarySkills": [
-                "C#",
-                "ASP.NET",
-                "ASP.NET MVC"
-            ],
-            "SecondarySkills": [
-                "MS SQL",
-                "MY SQL",
-                "JavaScript"
-            ],
+            "PrimarySkills": "C#, ASP.NET, ASP.NET MVC",
+            "SecondarySkills": "MS SQL, MY SQL, JavaScript",
             "ContactNumber": "9845683003",
             "EmailId": "naveenchandru.natarajan@adp.com",
             "ProfilePhoto": "",
@@ -42,16 +26,8 @@
         },
         {
             "Name": "Idayathullah Abdul",
-            "PrimarySkills": [
-                "C#",
-                "ASP.NET",
-                "ASP.NET MVC"
-            ],
-            "SecondarySkills": [
-                "MS SQL",
-                "MY SQL",
-                "JavaScript"
-            ],
+            "PrimarySkills": "C#, ASP.NET, ASP.NET MVC",
+            "SecondarySkills": "MS SQL, MY SQL, JavaScript",
             "ContactNumber": "9845683004",
             "EmailId": "idayathullah.abdul@adp.com",
             "ProfilePhoto": "",
