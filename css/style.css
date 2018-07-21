@@ -1,0 +1,128 @@
+@charset "utf-8";
+/*----------intial declartaion of css----------*/
+*{ /*appearance:none; -moz-appearance:none;-webkit-appearance:none;*/}
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite,
+code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, dl, dt, dd, ol, ul, li, fieldset,
+form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td ,select,input,option,textarea{margin: 0; padding: 0; border: 0;	outline: 0; font-size: 100%;/* list-style:none;*/ box-sizing:border-box;}
+
+article,aside,details,figcaption,figure,footer,header,hgroup,nav,section,summary{display:block;}
+audio,canvas,video{display:inline-block;}
+audio:not([controls]){display:none; height:0;}
+pre{white-space:pre; white-space:pre-wrap; word-wrap:break-word}
+q{quotes:none}
+q:before,q:after{content:''; content:none}
+small{font-size:80%}
+sub,sup{font-size:75%; line-height:0; position:relative; vertical-align:baseline}
+sup{top:-0.5em;}
+sub{bottom:-0.25em}
+nav ul,nav ol{list-style:none; list-style-image:none;}
+button,input,select,textarea{font-size:100%; margin:0; vertical-align:baseline;}
+textarea{overflow:auto;vertical-align:top}
+table{border-collapse:collapse;border-spacing:0}
+button,html input[type="button"],input[type="reset"],input[type="submit"],textarea{-webkit-appearance:none; border-radius:0}
+/* remember to define focus styles! */
+:focus {outline: 0;}
+ol, ul {/*list-style: none;*/}
+/* tables still need 'cellspacing="0"' in the markup */
+table {border-collapse: separate; border-spacing: 0; }
+caption, th, td { text-align: left; font-weight: normal; }
+a{text-decoration:none;}
+blockquote:before, blockquote:after,
+q:before, q:after {content: "";}
+blockquote, q {quotes: "" "";}
+table {	border:0 none; border-collapse:collapse; border-spacing:0;}
+td { vertical-align:top; }
+img	{ border:0 none; max-width:100%; }
+a	{ outline:none; cursor:pointer; }
+/* End hide from IE Mac */ .none { display: none; } /* End Clearfix */
+article, aside, details, figcaption, figure, footer, header, hgroup, nav, section {display:block}
+.clear{ clear:both;}  
+img{ max-width:100%;}
+/* For modern browsers */ 
+.cf:before, .cf:after {content: "";display: table}
+.cf:after {clear: both;}
+/* For IE 6/7 (trigger hasLayout) */
+a,button,.btn{ outline: none !important; transition:all 0.5s ease-in-out 0s; -moz-transition: all 0.5s ease-in-out 0s; -ms-transition: all 0.5s ease-in-out 0s; -o-transition: all 0.5s ease-in-out 0s; -webkit-transition: all 0.5s ease-in-out 0s; text-decoration:none !important;}
+body{font-size:14px;  -webkit-font-smoothing: antialiased;}
+figure{ margin: 0}
+h2{ font-size: 26px; color: #000; font-family: 'GameofThrones'; font-weight: normal; letter-spacing: 3px; margin-bottom: 19px}
+h2 span{ font-size: 36px;}
+p{ font-family: 'times_regular'; font-size: 20px; color: #000; line-height: 30px; padding-bottom: 20px;}
+/* banner css */
+.main{ width: 1170px; margin: 0 auto;}
+header {position: fixed;top: -120px;width: 100%;z-index: 9;}
+.banner-block{ position: relative}
+.banner{background:url(../images/banner-bg.png)no-repeat #1c647b center top; position: relative; text-align: center; padding-top: 91px; min-height: 926px; }
+.banner h1{ font-size: 68px; line-height: 103px; color: #fff; font-family: 'GameofThrones'; font-weight: normal; margin-bottom: 53px;}
+.banner h1 span{background: rgba(0,0,0,0.6);padding: 22px 15px 9px;font-size: 37px;letter-spacing: 3px;}
+.banner h1 span em{ font-size: 47px; font-style: normal}
+.banner h1 strong{ font-weight: normal}
+.banner h1 strong em{ font-size: 87px; font-style: normal;}
+.banner-charater{ margin-top: -603px; position: relative;}
+.banner-charater figure{ background:url(../images/charater-bg.png)no-repeat center bottom; padding-bottom: 50px; text-align: center}
+.banner-text{ position: relative; text-align:center; background: url(../images/banner-tree.png)no-repeat center bottom #ccedff; margin-top: -23px; display: inline-block;  width: 100%; padding-bottom: 117px;}
+.charater-info{ position: relative; padding-top: 140px; padding-bottom: 83px; }
+.charater-info:after{ position: absolute; top: -16px; left: 0; background: url(../images/stone-line.png)repeat-x top center; content: ""; width: 100%; height: 101px;}
+.charater-info figure{ width:470px; float: left; padding-left:60px; box-sizing: border-box}
+.charater-info .charater-detial{ width:700px; float: left; padding-left: 52px; padding-right: 42px }
+.charater-info .charater-detial h2{ color: #114c5f; font-size: 28px; font-weight: bold; margin-bottom: 45px; }
+.charater-info .charater-detial h2 em{ font-size: 38px; font-style: normal}
+.charater-info .charater-detial h2 span{ display: block; font-size: 26px; font-family: 'times_regular'; color: #000; font-weight: bold; margin-top: 10px; }
+.charater-info .charater-detial p em{ font-family: 'timesbolditalic';}
+
+.john-sec .charater-detial{ padding-top: 54px;}
+.arya-sec .charater-detial{ padding-top: 54px;}
+.arya-sec figure{ padding-left: 0; padding-top: 33px}
+.oberyn-sec{ padding-top: 111px;}
+.oberyn-sec figure{ padding-left: 0}
+.oberyn-sec .charater-detial{ padding-top: 84px;}
+.oberyn-sec .charater-detial h2 span{ letter-spacing: 0.6px}
+.syrio-sec .charater-detial{ padding-top: 24px; padding-left: 60px;}
+.daenerys-sec{ padding-top: 61px;}
+.daenerys-sec figure{ padding-left: 17px}
+.daenerys-sec .charater-detial{ padding-top: 124px;}
+.load-sec{ padding-top: 118px; padding-bottom: 96px;}
+.load-sec .charater-detial{ padding-top: 21px;}
+.jamine-sec{ padding-top: 126px;}
+.jamine-sec figure{ padding-left: 9px}
+.jamine-sec .charater-detial{ padding-top: 57px;}
+.cersie-sec{ padding-top: 130px;}
+.cersie-sec .charater-detial{ padding-top: 22px; padding-left: 60px;}
+.syrio-sec{ padding-bottom: 100px;}
+
+.takeway{ background: url(../images/banner-tree.png)no-repeat center bottom; padding-bottom: 140px;}
+.takeway .charater-detial{ float: none; width: 100%; text-align: center}
+.takeway ul { list-style: none;  text-align: center; display: inline-block}
+.takeway ul li span{ font-size: 24px; padding: 17px 0 16px; color: #000; font-family: 'timesbold'; border-bottom: #86d5eb solid 1px; display: inline-block}
+.takeway ul li:last-child span{ border-bottom: none}
+.charater-info.takeway h2{ margin-bottom: 25px;}
+footer{ position: relative; background: #000; display: inline-block; width: 100%; padding: 70px 0 0; font-family: 'PT Sans', sans-serif;}
+footer:after{ position: absolute;top: -16px;left: 0;background: url(../images/stone-line.png)repeat-x top center;content: "";width: 100%;height: 101px;}
+.charater-credit{ text-align: center; background: #333333; padding: 20px 0;font-family: 'Lato-Regular'; margin-top: 70px }
+.charater-credit span{ font-size: 14px; color: #999999;   }
+.charater-credit a{ display: inline-block; vertical-align: top; color: #f1c319; }
+.charater-credit a:hover{ color: #fff}
+#snow{background: none;background-image:url('../images/snow.png'),url('../images/snow1.png'),url('../images/snow3.png');height: 100%;left: 0;position: absolute;top: 0;width: 100%;z-index:1;-webkit-animation: snow 30s linear infinite;-moz-animation: snow 30s linear infinite;-ms-animation: snow 30s linear infinite;animation: snow 30s linear infinite;
+}
+iframe[name="google_conversion_frame"]{ display: none}
+.stButton .stButton_gradient, .stButton .stFb, .stButton .stTwbutton, .stButton .stMainServices {height: auto !important;}
+@keyframes snow {
+  0% {background-position: 0px 0px, 0px 0px, 0px 0px;}
+  50% {background-position: 500px 500px, 100px 200px, -100px 150px;}
+  100% {background-position: 500px 1000px, 200px 400px, -100px 300px;}
+}
+@-moz-keyframes snow {
+  0% {background-position: 0px 0px, 0px 0px, 0px 0px;}
+  50% {background-position: 500px 500px, 100px 200px, -100px 150px;}
+  100% {background-position: 400px 1000px, 200px 400px, 100px 300px;}
+}
+@-webkit-keyframes snow {
+  0% {background-position: 0px 0px, 0px 0px, 0px 0px;}
+  50% {background-position: 500px 500px, 100px 200px, -100px 150px;}
+  100% {background-position: 500px 1000px, 200px 400px, -100px 300px;}
+}
+@-ms-keyframes snow {
+  0% {background-position: 0px 0px, 0px 0px, 0px 0px;}
+  50% {background-position: 500px 500px, 100px 200px, -100px 150px;}
+  100% {background-position: 500px 1000px, 200px 400px, -100px 300px;}
+}	
